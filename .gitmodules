@@ -1,3 +1,9 @@
 [submodule "l10n-spain"]
 	path = l10n-spain
 	url = https://github.com/OCA/l10n-spain.git
+[submodule "account-payment"]
+	path = account-payment
+	url = https://github.com/OCA/account-payment.git
+[submodule "e-commerce"]
+	path = e-commerce
+	url = https://github.com/OCA/e-commerce.git
